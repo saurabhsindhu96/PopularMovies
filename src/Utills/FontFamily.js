@@ -1,4 +1,1 @@
-export default FontFamily = {
-   
-  };
-  
+export default FontFamily = {};
